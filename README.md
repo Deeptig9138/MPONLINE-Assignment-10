@@ -77,7 +77,6 @@ Heart-Disease-Deployment/
 
 ### Prediction Endpoint
 
-- **URL:** ``
 - **Headers:** `Content-Type: application/json`
 
 #### Example Input Payload
