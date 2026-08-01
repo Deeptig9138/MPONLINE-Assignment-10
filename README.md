@@ -62,7 +62,7 @@ Heart-Disease-Deployment/
 
 ### Root Health Check Endpoint
 
-- **URL:** ``
+- **URL:** `https://heart-disease-rf6i.onrender.com/`
 
 **Response:**
 
